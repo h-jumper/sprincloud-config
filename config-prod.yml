@@ -1,2 +1,2 @@
-test
-  info: config-dev
+config:
+  info: config-prod
